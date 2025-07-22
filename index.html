@@ -1,0 +1,48 @@
+---
+title: Home
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Games of Consequence</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://use.typekit.net/wcl0try.css">
+  <style>
+    html {
+      overflow: hidden;
+    }
+  </style>
+</head>
+
+<body>
+  <!--
+  <canvas id="canvas"></canvas>
+  <script src="{{ '/assets/js/pixelate.js' | relative_url }}"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  -->
+
+  <section id="carousel-section">
+    <canvas id="carouselCanvas"></canvas>
+    <script src="{{ '/assets/js/canvas-carousel.js' | relative_url }}"></script>
+  </section>
+  <div class="title">
+    <div class="black">Games of</div>
+    <div class="red indented-1">Con</div>
+    <div class="red indented-2">se</div>
+    <div class="red indented-3">quence</div>
+  </div>
+
+  <div class="grid">
+    <div class="callout">
+      We make <span class="red">real games</span><br>
+      about <span class="red">real issues.</span>
+    </div>
+  </div>
+</body>
+
+</html>
