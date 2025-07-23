@@ -22,3 +22,5 @@ Users can simulate specific types of plastic inputs, product outputs, and produc
 Beyond mapping current operations, the Material Map also encourages experimentation. Stakeholders can test speculative strategies by swapping out inputs and outputs, adjusting volumes, or reconfiguring partnerships—giving rise to new possibilities for a truly circular p
 
 The design process involves translating stakeholder insights and x-field research into functional models, integrating existing datasets, and creating simulations that forecast the impact of various circular economy strategies to support more informed decision making across the sector.
+
+Created in collaboration with stakeholders of the "ReShaping the Plastics NZ Ecosystem project" 2023-2028 funded by the NZ MBIE Endeavour Fund (Research Programmes) - Led by Prof Johan Verbeek (University of Aukland), Prof Deb Polson (RMIT), Prof Simon Bickerton (UoA), and Assoc/Prof Julia Fehrer (UoA)
