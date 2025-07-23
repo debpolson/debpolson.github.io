@@ -1,8 +1,8 @@
 ---
 title: Meta&shy;Forest
 category: work
-date: 2025-06-18
-type: installation
+date: 2025-07-15
+type: installation + VR
 cover-image: /assets/Pictures/Meta3.png
 permalink: /MetaForest/
 tag: "environmental"
