@@ -25,7 +25,7 @@ As players uncover lost data left behind by negligent corporations and concerned
 In Deep Water sources its environmental data from microbiologists and scientific groups focused on Aotearoa’s unique waterways. Through play, it enables meaningful public engagement with ecological research, contributing to broader awareness of the urgent challenges facing marine biodiversity.
 A prototype of In Deep Water was featured in the 2025 ACMI Audience Lab and marks the beginning of a series of Games of Consequence titles dedicated to capturing the vitality of Oceania water biomes—before they are irrevocably changed.
 
-![Sub Image](/assets/Pictures/IDW/IDW_ACMI2.png)
+![Sub Image](/assets/Pictures/IDW/IDW_ACMI2.PNG)
 
 
 Thanks to:
