@@ -19,4 +19,6 @@ Users can simulate specific types of plastic inputs, product outputs, and produc
 
 ![Sub Image](/assets/Pictures/materialmap2.png)
 
-Beyond mapping current operations, the Material Map also encourages experimentation. Stakeholders can test speculative strategies by swapping out inputs and outputs, adjusting volumes, or reconfiguring partnerships—giving rise to new possibilities for a truly circular plastics economy in Aotearoa.
+Beyond mapping current operations, the Material Map also encourages experimentation. Stakeholders can test speculative strategies by swapping out inputs and outputs, adjusting volumes, or reconfiguring partnerships—giving rise to new possibilities for a truly circular p
+
+The design process involves translating stakeholder insights and x-field research into functional models, integrating existing datasets, and creating simulations that forecast the impact of various circular economy strategies to support more informed decision making across the sector.
