@@ -21,4 +21,4 @@ The game seeks to bridge gaps between traditional masculine hobbies and feminine
 
 Originally made in only two months, the digital game presents with an accompanying physical PC tower and peripheral devices decorated with objects and lighting to mirror its cosy digital counterpart. This hybrid display pays homage to influential decor games, community forums, and feminine PC building stars.
 
-A demo for my Dream PC debuted at the Feminine Play exhibition as a part of Melbourne International Games Week 2024.
+A demo for my Dream PC debuted at the Feminine Play exhibition as a part of Melbourne International Games Week 2024 and is being exhibited at The Australian Centre for the Moving Image (ACMI) until mid-2026.
