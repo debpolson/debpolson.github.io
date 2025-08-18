@@ -142,7 +142,6 @@ main {
 .post-content img {
   width: 100%;
   height: auto;
-  margin: 2rem 0;
 }
 
 /* Tags */
@@ -156,4 +155,23 @@ main {
   color: var(--tomato);
   text-decoration: underline;
   font-size: 0.9rem;
+}
+
+.post-content a {
+  color: #ff4027;
+}
+
+.figure {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
+
+.figure figcaption {
+  width: 100%;
+}
+
+.post-content em {
+  opacity: 60%;
+  text-align: center;
 }

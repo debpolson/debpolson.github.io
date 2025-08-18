@@ -20,6 +20,9 @@
 *.tar
 *.zip
 
+#Folders#
+/_site/**
+
 # Logs and databases #
 ######################
 *.log
