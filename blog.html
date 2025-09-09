@@ -38,7 +38,7 @@ layout: default
                                 <a href="#" class="tag">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
                                 {% endfor %}
                             </p>
-                            <span class="date">{{ post.date | date: "%y.%m.%d" }}</span>
+                            <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
                         </div>
                     </div>
 

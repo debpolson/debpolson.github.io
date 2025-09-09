@@ -28,6 +28,15 @@ body {
     color: var(--cream);
 }
 
+a:link {
+    color: #ff4027;
+
+}
+
+a:visited{
+    color: #eb311a;
+}
+
 .content {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
