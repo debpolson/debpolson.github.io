@@ -1,5 +1,5 @@
 ---
-title: GOC at MIGW!
+title: Games of Consequence @ Games Week!
 category: blog
 date: 2025-11-08
 permalink: /GOCatMIGW/
@@ -14,7 +14,7 @@ It’s been a month since [Melbourne International Games Week (MIGW)](https://ga
 
 Members from GOC spent their games week galavanting around town, catching up with peers, making new friends, all while taking part in their own talks, presentations, and demo installations.
 
-## Fireside with Lis Moberly
+## ঌ Fireside with Lis Moberly ঌ
 
 Our director Deb Polsen was invited to moderate a fireside chat with games writer and narrative designer Lis Moberly as part of the [Careers + Frontiers: Games Education Symposium](https://www.acmi.net.au/education/school-program-and-resources/careers-and-frontiers/). The event brought together educators and industry veterans to talk shop about the game development industry; how to break into it, stick around, and make the most of your creative potential.
 
@@ -29,7 +29,7 @@ While it was absolutely a you-had-to-be-there experience, there were some vital 
 
 A combination of Deb’s thoughtful questions and Lis’s generosity with her responses made for useful and compelling discourse—clearly reflected in how audience members had their eyes glued to the stage. The discussion was also live recorded graphically and made reference to the importance of recognising stress and problem-solving as a team.
 
-## In Deep Water at Games for Change
+## ༄ In Deep Water at Games for Change ༄
 
 Deb and our lead technical artist Iris Anstey also presented a talk and a live demo of the game _In Deep Water_ (IDW) at the [Games for Change: Asia Pacific Summit (G4CAPAC)](https://g4capac.org)!
 
