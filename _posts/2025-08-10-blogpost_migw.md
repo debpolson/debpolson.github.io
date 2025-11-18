@@ -6,7 +6,6 @@ permalink: /GOCatMIGW/
 tag: "news"
 layout: blog
 image1: /assets/Pictures/lis2.jpg
-image2: /assets/Pictures/lis2.jpg
 description: "Chatting away a storm at this year's Melbourne International Games Week!"
 ---
 
