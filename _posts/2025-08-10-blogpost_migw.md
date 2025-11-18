@@ -54,6 +54,3 @@ The custom-created control panel “box” for IDW is a huge part of this transl
 Many participants, including peers in game development and those from education backgrounds, had a blast playing the prototype, with most playing more than once in order to retrieve as much information as possible.
 
 While that’s Games Week done-and-dusted, the team are working away at IDW and their larger NZ Plastic Ecosystems project to prepare for an upcoming trip to Aotearoa which will be full of collaboration, workshops, and of course, lots of play!
-
-
-
