@@ -5,8 +5,8 @@ date: 2025-11-08
 permalink: /GOCatMIGW/
 tag: "news"
 layout: blog
-image1: /assets/Pictures/lis2.png
-image2: /assets/Pictures/lis2.png
+image1: /assets/Pictures/lis2.jpg
+image2: /assets/Pictures/lis2.jpg
 description: "Chatting away a storm at this year's Melbourne International Games Week!"
 ---
 
@@ -21,7 +21,7 @@ Our director Deb Polsen was invited to moderate a fireside chat with games write
 Lis has worked in both academic and industry game roles, contributing to giant projects like Avowed and Hogwarts Legacy, as well as smaller indie titles like Cursed to Golf. She is currently a creative lead at 20th Century Games with the Disney Company, but while the two could have talked at length about her time there, they focused on more pressing topics including the importance of good game teams, mitigating against burnout, and how to juggle work and creative life.
 
 <br>
-![Sub Image](/assets/Pictures/lis1.png)
+![Sub Image](/assets/Pictures/lis1.jpg)
 *Deb and Lis having a chat on-stage*
 <br>
 
@@ -36,7 +36,7 @@ Deb and our lead technical artist Iris Anstey also presented a talk and a live d
 In their talk Iris and Deb outlined the evolution of the game from inception to it’s currently beautifully polished iteration. This was made possible through a lot of design reflection, collaboration within the team, and play-testing at the CODE office and at events such as the [ACMI + RMIT Audience Lab](https://www.acmi.net.au/whats-on/acmi-rmit-audience-lab/jun-2025/).
 
 <br>
-![Sub Image](/assets/Pictures/g4c3.png)
+![Sub Image](/assets/Pictures/g4c3.jpg)
 *Deb and Iris presenting on In Deep Water*
 <br>
 
@@ -45,7 +45,7 @@ In Deep Water is inspired and created based on the scientific research efforts o
 In their talk, Iris and Deb said that many interventions would have to be made by large companies and stakeholders to make sure that plastic waste (and their leaching microplastics) can stop decimating the beautiful coastal scenes depicted in the game. In order to achieve this the vital work that researchers are doing should be translated for the public—not simply kept away in research depositories. Enter: the element of play!
 
 <br>
-![Sub Image](/assets/Pictures/g4c2.png)
+![Sub Image](/assets/Pictures/g4c2.jpg)
 *A fellow games peer about the playtest the IDW box!*
 <br>
 
