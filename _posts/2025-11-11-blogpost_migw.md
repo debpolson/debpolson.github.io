@@ -1,7 +1,7 @@
 ---
 title: Games of Consequence @ Games Week!
 category: blog
-date: 2025-11-08
+date: 2025-11-11
 permalink: /GOCatMIGW/
 tag: "news"
 layout: blog
