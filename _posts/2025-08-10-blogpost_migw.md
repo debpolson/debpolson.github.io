@@ -46,7 +46,7 @@ In their talk, Iris and Deb said that many interventions would have to be made b
 
 <br>
 ![Sub Image](/assets/Pictures/g4c2.jpg)
-*A fellow games peer about the playtest the IDW box!*
+*A fellow games peer about to playtest the IDW box!*
 <br>
 
 The custom-created control panel “box” for IDW is a huge part of this translation work. Made from organic materials, the box is an invitation for players to discover ways of surveying the coast as a rogue scientist. Through zooming, sliding, rotating, and scanning, players are able to track beacons of scientific information and descramble them to build a larger picture of what’s really going on between plastics, environments, and wildlife and what will continue to happen well into the future.
