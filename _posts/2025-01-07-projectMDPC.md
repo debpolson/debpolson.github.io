@@ -7,7 +7,7 @@ cover-image: /assets/Pictures/MDPC/MDPC_NoUI.png
 permalink: /ProjectMyDreamPC/
 tag: "social"
 layout: post
-media:  /assets/Pictures/MDPC/MyDreamPC_Promo.png
+media:  /assets/Pictures/MDPC/MyDreamPC_IconNew.png
 ---
 ## A PC Build Simulator and Cosy Game 
 
