@@ -11,21 +11,30 @@ media:  /assets/Pictures/InDeepWatersCover.png
 ---
 ## There may be more plastic than fish in the ocean, by weight, by 2050
 
-In Deep Water invites players to explore an artfully sculpted digital marine biorama inspired by Aotearoa New Zealand’s fragile aquatic ecosystems. Blending rigorous scientific research with delightful, exploratory gameplay, this sim-game is grounded in collaborations with real-world marine researchers who are working to understand and mitigate the impacts of plastic pollution.
+In Deep Water is a simulation/game that invites players to explore the hidden impacts of plastic pollution in marine ecosystems. Set within a digitally sculpted marine biorama inspired by the waterways of Aotearoa, New Zealand, the experience spans estuaries, coastlines, and deep ocean environments where ecological change unfolds slowly over time.
 
-Set within shallow coastlines and deep ocean waters, players use a curious, retro-futuristic control device-resembling something from a rogue scientist’s garage or an abandoned observatory—to navigate waterways, scan for data beacons, and track tagged marine species. These levers, buttons, dials, and sliders create novel and tactile modes of interaction that encourage slow, curious exploration.
+The project responds to a critical challenge: much of what scientists understand about marine plastic and microplastic pollution remains difficult for the public to access. Its causes are distributed across complex systems of production and consumption, and its impacts are often invisible, gradual, and dispersed. In Deep Water translates this research into an embodied, collaborative experience, allowing players to investigate, interpret, and make sense of environmental change through interaction rather than instruction.
+
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1179456241?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="In Deep Water - Marine Simulator"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## More than 90% of plastics ever produced have never been recycled
 
-As players uncover lost data left behind by negligent corporations and concerned researchers, they come to understand how microplastics are affecting birds, kelp, whales, and other marine life. The experience highlights how thriving environments can become desolate through human action—and inaction—while also inviting players to imagine alternative futures in which recovery is still possible.
+Players navigate the environment using a custom-built physical control box, an intentionally unconventional interface made of dials, levers, sliders, and lights. This tactile system draws on the visual language of scientific instruments and improvised machinery, encouraging curiosity, experimentation, and shared exploration. Rather than simplifying the experience through familiar controls, the device slows interaction and distributes understanding across hands, bodies, and conversation, turning play into a process of collective sense-making.
 
-In Deep Water sources its environmental data from microbiologists and scientific groups focused on Aotearoa’s unique waterways. Through play, it enables meaningful public engagement with ecological research, contributing to broader awareness of the urgent challenges facing marine biodiversity.
-A prototype of In Deep Water was featured in the 2025 ACMI Audience Lab and marks the beginning of a series of Games of Consequence titles dedicated to capturing the vitality of Oceania water biomes—before they are irrevocably changed.
+As players move through the world, they locate and decode hidden research beacons. Each beacon reveals fragments of real scientific data: the impacts of plastic pollution on specific ecosystems, key statistics, and the work of researchers striving to mitigate harm. These encounters are designed to balance urgency with hope, presenting both the scale of the crisis and the ongoing efforts of marine scientists and plastic waste experts working toward solutions.
+
+In Deep Water is part of a broader research program investigating how plastic systems might transition toward greater circularity. Within this context, the project demonstrates how games and interactive installations can function as powerful tools for translating complex research into accessible, meaningful public experiences.
+
 
 ![Sub Image](/assets/Pictures/IDW/IDW_ACMI2.PNG)
 
+Credits:
+Iris Anstey - Technical Art, Lead Design
+Deb Polson - Producer, Design, Writer
+Charlotte Galvin - UI Design
+Ana Devilla - Fabricator
+Josh Wait - Arduino Production
 
 Thanks to:
 Dr Olga Pantos leading the Miicroplastics group at [PHF Science](https://www.phfscience.nz/expertise/water-environment/microplastics/)
