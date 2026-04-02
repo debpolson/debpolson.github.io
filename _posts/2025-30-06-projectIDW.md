@@ -15,8 +15,7 @@ In Deep Water invites players to explore an artfully sculpted digital marine bio
 
 Set within shallow coastlines and deep ocean waters, players use a curious, retro-futuristic control device-resembling something from a rogue scientist’s garage or an abandoned observatory—to navigate waterways, scan for data beacons, and track tagged marine species. These levers, buttons, dials, and sliders create novel and tactile modes of interaction that encourage slow, curious exploration.
 
-
-![Sub Image](/assets/Pictures/InDeepWatersCover.png)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1179456241?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="In Deep Water - Marine Simulator"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## More than 90% of plastics ever produced have never been recycled
 
