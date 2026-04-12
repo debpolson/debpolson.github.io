@@ -30,10 +30,11 @@ In Deep Water is part of a broader research program investigating how plastic sy
 ![Sub Image](/assets/Pictures/IDW/IDW_ACMI2.PNG)
 
 Credits:
-Iris Anstey - Technical Art, Lead Design
-Deb Polson - Producer, Design, Writer
-Charlotte Galvin - UI Design
-Ana Devilla - Fabricator
+Iris Anstey - Technical Art, Lead Design,
+Deb Polson - Research Lead, Writer,
+Paul Anstey - Sound Design,
+Charlotte Galvin - UI Design,
+Ana Davila Veytia - Device Fabricator
 Josh Wait - Arduino Production
 
 Thanks to:
