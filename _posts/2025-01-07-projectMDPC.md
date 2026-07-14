@@ -9,7 +9,7 @@ tag: "social"
 layout: post
 media:  /assets/Pictures/MDPC/MyDreamPC_IconNew.png
 ---
-## A PC Build Simulator and Cosy Game 
+## A PC Build Simulator and Cosy Game k
 
 My Dream PC is a sim-game created as a tribute to the vibrant PC building community, and especially to the talented and generous women who openly share their intense creative process, technical expertise, and finished builds across social media. Female PC Builder communities especially emerged during COVID lockdowns when they expanded the practice to include full room builds to compliment the PC designs.
 
