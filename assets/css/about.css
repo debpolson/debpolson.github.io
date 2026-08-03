@@ -1,0 +1,166 @@
+/*-- About --*/
+.about h2 {
+    color: var(--cream);
+    font-size: 2rem;
+    line-height: auto;
+    font-family: "terminal_grotesque";
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+.contact-box {
+    background-color: black;
+    padding: 16px 32px;
+    display: flex;
+    transition: 0.2s ease transform;
+    margin: 48px 0px;
+}
+
+.contact-box a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    text-decoration: none;
+}
+
+    .email-us {
+        position: relative;
+        top: calc(var(--baseline) * 1);
+        font-size: 3rem;
+        margin-bottom: calc(var(--baseline)*2);
+        line-height: 88.2%;
+    }
+
+.email-us__title {
+    color: var(--tomato);
+    font-family: 'terminal_grotesque';
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.email-us__desc {
+    color: var(--cream);
+    font-family: 'Manrope';
+    font-size: 1.1rem;
+    line-height: normal;
+}
+
+
+.contact-box__media {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 16px;
+}
+
+.contact-box__media img {
+    display: inline;
+    height: 68px;
+    width: auto;
+}
+
+.contact-box:hover {
+    transform: translateY(-2px);
+}
+
+/*-- Team Cards --*/
+.team-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+    margin-top: 6px;
+}
+
+.team-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: auto;
+}
+
+.team-card__image {
+    overflow: hidden;
+    border-bottom: 1px solid black;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+
+.team-card__image img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.team-card__meta {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 16px;
+}
+
+.team-card__name {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.team-card__title {
+    text-transform: capitalize;
+}
+
+/* -- Responsive --*/
+
+@media (max-width:767px) {
+    .about {
+        padding-top: 16px;
+    }
+
+    .about p {
+        font-size: 1rem;
+    }
+
+    .about h2 {
+        font-size: 1.5rem;
+    }
+
+    .team-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        margin-top: 6px;
+    }
+
+    .email-us {
+        font-size: 3rem;
+        margin-bottom: calc(var(--baseline)*2);
+    }
+
+    .email-us__title{
+        padding-bottom: 6px;
+    }
+
+    .email-us__desc {
+        line-height: normal;
+        font-size: 0.9rem;
+    }
+
+    .content p {
+        font-size: 1rem;
+    }
+
+    .contact-box__media img {
+        display: none;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .team-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 6px;
+    }
+}

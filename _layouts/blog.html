@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  <title>{{ page.title | default: site.title }}</title>
+    
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/post.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
+      rel="stylesheet">
+
+      <style>
+        .footer {
+         border-top: 1px solid var(--cream); 
+        }
+        .footer p {
+          color: var(--cream);
+        }
+      </style>
+
+</head>
+
+  <body>
+    <main>
+      <!-- Main Post Content -->
+      <div class="content">
+        <div class="content__heading">{{ page.title }}</div>
+         <div class="meta-content">
+          <div class="meta-content__block">
+            <div class="meta-content__title">tags</div>
+            <div class="meta-content__text" style="text-transform: capitalize;">
+              {% for category in page.categories %}
+              {{ category }}
+              {%- if forloop.index < forloop.length -%},
+              {%- endif -%}
+              {% endfor %}
+            </div>
+          </div>
+          <div class="meta-content__block">
+            <div class="meta-content__title">date</div>
+            <div class="meta-content__text">{{ page.date | date:'%d %B, %Y' }}</div>
+          </div>
+        </div>
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </div>
+
+      <!--
+      <a class="home-button" href="/work">
+        <img src="/assets/Home_MedRes_red.png" alt="Home">
+      </a>
+      -->
+    </main>
+    {% include sidebar.html %}
+
+    <div class="lightbox" id="lightbox">
+      <div class="lightbox__inner">
+        <div class="lightbox__frame">
+          <img class="lightbox__image" id="lightboxImage" src alt>
+        </div>
+        <button class="lightbox__close" id="lightboxClose"
+            aria-label="Close">✕</button>
+        <p class="lightbox__caption" id="lightboxCaption"></p>
+      </div>
+    </div>
+  </body>
+
+     {% include footer.html %}
+
+  <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
+
+</html>

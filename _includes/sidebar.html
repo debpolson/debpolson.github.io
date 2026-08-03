@@ -1,0 +1,13 @@
+<nav class="sidebar" aria-label="Navigation">
+  {% for item in site.data.nav %}
+    {% if page.url contains item.url %}
+      {% assign active_class = "active" %}
+    {% else %}
+      {% assign active_class = "" %}
+    {% endif %}
+
+  <a href="{{ item.url | relative_url }}" class="{{ active_class }}">
+    {{ item.title }}
+  </a>
+  {% endfor %}
+</nav>

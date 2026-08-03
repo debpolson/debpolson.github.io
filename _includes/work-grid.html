@@ -1,0 +1,35 @@
+<div class="work-filter reveal">
+    <button class="work-filter__btn active" data-filter="all">All</button>
+    <button class="work-filter__btn" data-filter="social">Social</button>
+    <button class="work-filter__btn" data-filter="environmental">Environmental</button>
+    <button class="work-filter__btn" data-filter="custom controllers">Custom Controllers</button>
+    <button class="work-filter__btn" data-filter="internships">Internships</button>
+</div>
+
+<div class="work-grid reveal">
+    {% for work in site.work %}
+    {% assign cats = work.categories | join: ',' | downcase %}
+    <div class="work-card" data-categories="{{ cats }}">
+        <a class="work-card__link" href="{{ work.url }}">
+            <div class="work-card__media">
+                <img src="{{ work.preview-image }}" alt="{{ work.title }}">
+            </div>
+            <div class="work-card__body">
+                <h2 class="work-card__title">
+                    {{ work.title }}
+                </h2>
+            </a>
+            <div class="work-card__meta">
+                <p class="work-card__meta__work-type">{{ work.work-type }}</p>
+                <div class="work-card__categories">
+                    {% for category in work.categories %}
+                    {{ category }}
+                    {%- if forloop.index < forloop.length -%},
+                    {%- endif -%}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

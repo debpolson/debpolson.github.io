@@ -1,0 +1,15 @@
+{% for member in site.data.members %}
+<div class="team-card reveal">
+    <div class="team-card__image">
+        <img src="{{ member.img }}"  alt="Photo of {{ member.name }}">
+    </div>
+    <div class="team-card__meta">
+        <div class="team-card__name">
+            {{ member.name }}
+        </div>
+        <div class="team-card__title">
+            {{ member.title }}
+        </div>
+    </div>
+</div>
+{% endfor %}
