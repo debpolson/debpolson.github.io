@@ -1,0 +1,15 @@
+title: Games of Consequence
+description: We make real games about real issues.
+author: CODE
+
+collections:
+  work:
+    permalink: /work/:permalink/
+    output: true
+    collections_dir: /_work
+    sort-by: year
+  blog:
+    permalink: /blog/:permalink/
+    output: true
+    collections_dir: /_blog
+    sort-by: date

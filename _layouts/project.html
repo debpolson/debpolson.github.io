@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta charset="UTF-8">
+    <title>{{ page.title | default: site.title }}</title>
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/project.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
+      rel="stylesheet">
+  </head>
+
+  <!-- Fullscreen Hero Section -->
+  <header class="post-hero">
+    {% if page.media contains ".mp4" %}
+    <video src="{{ page.media | relative_url }}" autoplay muted loop></video>
+    {% else %}
+    <img src="{{ page.media | relative_url }}" alt="{{ page.title }}">
+    {% endif %}
+  </header>
+
+  <body>
+    <main>
+      <!-- Main Post Content -->
+      <div class="content">
+        <div class="content__heading">{{ page.title }}</div>
+        {% if page.subheading != null %}
+        <div class="content__subheading">{{ page.subheading }}</div>
+        {% endif %}
+
+        <!-- Meta Content -->
+        <div class="meta-content">
+          <div class="meta-content__block">
+            <div class="meta-content__title">tags</div>
+            <div class="meta-content__text" style="text-transform: capitalize;">
+              {% for category in page.categories %}
+              {{ category }}
+              {%- if forloop.index < forloop.length -%},
+              {%- endif -%}
+              {% endfor %}
+            </div>
+          </div>
+          <div class="meta-content__block">
+            <div class="meta-content__title">year</div>
+            <div class="meta-content__text">{{ page.year }}</div>
+          </div>
+          {% if page.credits != null %}
+          <div class="meta-content__block">
+            <div class="meta-content__title">credits</div>
+            {% for credit in page.credits %}
+            <div class="meta-content__text_credit">{{ credit }}</div>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          {% if page.partners != null %}
+          <div class="meta-content__block">
+            <div class="meta-content__title">partners</div>
+            {% for partner in page.partners %}
+            <div class="meta-content__text_credit">{{ partner }}</div>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+        
+        <!-- Post content -->
+        <div class="post-content">
+          {{ content }}
+          <div class="post-tags">
+            {% for tag in page.tags %}
+            <a href="#" class="tag">{{ tag }}</a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+<!--
+      <a class="home-button" href="/work">
+        <img src="/assets/Home_MedRes_red.png" alt="Home">
+      </a>
+      -->
+    </main>
+    
+    {% include sidebar.html %}
+
+    <div class="lightbox" id="lightbox">
+      <div class="lightbox__inner">
+        <div class="lightbox__frame">
+          <img class="lightbox__image" id="lightboxImage" src alt>
+        </div>
+        <button class="lightbox__close" id="lightboxClose"
+            aria-label="Close">✕</button>
+        <p class="lightbox__caption" id="lightboxCaption"></p>
+      </div>
+    </div>
+  </body>
+
+     {% include footer.html %}
+
+  <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
+
+</html>

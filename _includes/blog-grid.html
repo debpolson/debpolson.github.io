@@ -1,0 +1,44 @@
+<div class="blog-filter reveal">
+  <button class="blog-filter__btn active" data-filter="all">All</button>
+  <button class="blog-filter__btn" data-filter="news">News</button>
+  <button class="blog-filter__btn"
+    data-filter="development">Development</button>
+  <button class="blog-filter__btn"
+    data-filter="publications">Publications</button>
+</div>
+
+<div class="blog-grid reveal">
+  {% for blog in site.blog reversed %}
+  {% assign cats = blog.categories | join: ',' | downcase %}
+  <div class="blog-card" data-categories="{{ cats }}">
+    <a class="blog-card__link" href="{{ blog.url }}">
+      <div class="blog-card__information">
+        <div class="blog-card__information_title">{{ blog.title }}</div>
+        <div class="blog-card__information_desc">{{ blog.description }}</div>
+        <div class="blog-card__information_meta">
+          <div class="blog-card__categories">
+            <strong>TAGGED:</strong>
+            {% for category in blog.categories %}
+            {{ category }}
+            {%- if forloop.index < forloop.length -%},
+            {%- endif -%}
+            {% endfor %}
+          </div>
+          <div class="blog-card__information_meta_date">{{ blog.date | date: "%d/%m/%Y" }}</div>
+        </div>
+      </div>
+      <div class="blog-card__media">
+        <div class="blog-card__media__image">
+         <img src="{{ blog.preview-image-1 }}" alt="{{ blog.title }}">
+        </div>
+        <div class="blog-card__media__image">
+         <img src="{{ blog.preview-image-2 }}" alt="{{ blog.title }}">
+        </div>
+      </div>
+    </a>
+  </div>
+  <script>
+
+  </script>
+  {% endfor %}
+</div>

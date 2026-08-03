@@ -1,0 +1,268 @@
+/* ==========================================================================
+   Work page — design tokens
+   ========================================================================== */
+:root {
+  --gap: 24px;
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Respect reduced motion globally on this page */
+@media (prefers-reduced-motion: reduce) {
+
+  .work-card,
+  .work-card__media img,
+  .work-filter__btn,
+  .work-scroll-cue {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* ==========================================================================
+   Main content
+   ========================================================================== */
+.work-main {
+  flex: 1;
+  /* padding: 48px clamp(24px, 5vw, 64px) 96px; */
+  height: fit-content;
+}
+
+.work-heading {
+  font-family: var(--font-display);
+  color: var(--cream);
+  font-size: clamp(2rem, 6vw, 3.75rem);
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  margin: 0 0 32px;
+  text-transform: capitalize;
+}
+
+/* ==========================================================================
+   Filter bar
+   ========================================================================== */
+.work-filter {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid black;
+  margin-bottom: 32px;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.work-filter__btn {
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: var(--color-red);
+  color: var(--color-black);
+  border: none;
+  border-right: 1px solid var(--black);
+  padding: 8px 12px;
+  cursor: pointer;
+  flex: 1 1 auto;
+  transition: background 0.15s var(--ease), color 0.15s var(--ease);
+  text-align: center;
+}
+
+.work-filter__btn:last-child {
+  border-right: none;
+}
+
+.work-filter__btn:hover,
+.work-filter__btn:focus-visible {
+  background: rgba(13, 13, 13, 0.2);
+}
+
+.work-filter__btn:active {
+  background: var(--black);
+  color: var(--cream);
+}
+
+.work-filter__btn.active {
+  background: var(--black);
+  color: var(--cream);
+}
+
+/* ==========================================================================
+   Card grid — two columns
+   ========================================================================== */
+.work-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--gap);
+}
+
+.work-card {
+  position: relative;
+  border: 1px solid var(--black);
+  overflow: hidden;
+  background-color: var(--tomato);
+  transition: background 0.2s var(--ease), color 0.2s var(--ease),
+    transform 0.2s var(--ease), opacity 0.3s ease;
+  opacity: 0;
+}
+
+.work-card.is-visible {
+  opacity: 1;
+}
+
+.work-card a {
+  text-decoration: none;
+}
+
+.work-card__link::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  /* Less than the inner interactive elements */
+  pointer-events: auto;
+}
+
+.work-card__media {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-bottom: 1px solid var(--black);
+}
+
+.work-card__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s var(--ease);
+}
+
+.work-card__body {
+  padding: 14px 16px 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.work-card__title {
+  margin: 0px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--black);
+}
+
+.work-card__meta {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.work-card__meta__work-type {
+  opacity: 1;
+  margin: 0px;
+}
+
+.work-card__categories {
+  display: flex;
+  width: fit-content;
+  flex-direction: row;
+  gap: 6px;
+  opacity: 0.6;
+  text-transform: capitalize;
+}
+
+.work-card:hover,
+.work-card:focus-within {
+  background: var(--black);
+  color: var(--tomato);
+  transform: translateY(-2px);
+}
+
+.work-card:hover .work-card__title {
+  color: var(--tomato);
+}
+
+.work-card__title h2:hover {
+  text-decoration: none;
+  color: var(--tomato);
+}
+
+
+.work-card:hover .work-card__media img,
+.work-card:focus-within .work-card__media img {
+  transform: scale(1.04);
+}
+
+/* Hidden state used by the filter script */
+.work-card[hidden] {
+  display: none;
+}
+
+.work-card.is-fading-out {
+  opacity: 0;
+}
+
+.work-card.is-hidden {
+  display: none;
+}
+
+
+@media (max-width: 747px) {
+  .work-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .work-card__meta {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .work-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .work-card__meta {
+    display: block;
+    flex-direction: column;
+  }
+  .work-card__body {
+  justify-items: space-between;
+}
+}
+
+@media (max-width:1070px){
+.work-filter {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .work-filter__btn {
+    font-size: .8rem;
+    border-right: none;
+    border-bottom: 1px solid var(--black);
+  }
+
+  .work-filter__btn:last-child {
+    border: none;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1250px) {
+  .work-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .work-card__meta {
+    display: block;
+    flex-direction: column;
+  }
+  .work-card__body {
+  justify-items: space-between;
+}
+}
