@@ -11,7 +11,7 @@ layout: project
 preview-image: /assets/Images/Work/DesertGarden/Room 3.png
 media:  /assets/Images/Work/DesertGarden/Room 3.png
 
-subheading:  A novel experiment in coperative play for museum spaces
+subheading:  A novel experiment in cooperative play for museum spaces
 credits:
 - Caleb Noller - Lead Designer and Programmer
 - Jazmin Engle - Environment Artist
@@ -24,7 +24,7 @@ Prospective players only have to step into the play area to participate. No extr
 
 A three-player puzzle game using body-tracking camera. Each player controls an "element" of the game world - water, wind, and mechanical contraptions - and must guide an adventurer’s boat through a lonely drowned city. 
 
-Players control each element by walking back and forth within the play-space (e.g. walking forward moves the water higher, walking backwards moves the water lower. Currently the full experience takes 20 to 30 minutes to play) but players can easily step out of the experience at key checkpoints. Game requires a 3x3 physical area to play, large screen (at least 40"), with space to setup motion camera (ZED 2i) and tripod.
+Players control each element by walking back and forth within the play-space (e.g. walking forward moves the water higher, walking backwards moves the water lower). Currently the full experience takes 20 to 30 minutes to play but players can easily step out of the experience at key checkpoints. Game requires a 3x3 physical area to play, large screen (at least 40"), with space to setup motion camera (ZED 2i) and tripod.
 
 ![Sub Image](/assets/Images/Work/DesertGarden/Room%204.png)
 
