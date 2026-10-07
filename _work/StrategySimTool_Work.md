@@ -5,7 +5,7 @@ description: "A circular plastics strategy simulator"
 
 work-type: "Simulation"
 categories: [social, environmental]
-year: 2024
+year: 2025
 layout: project
 
 preview-image: /assets/Images/Work/CircularSim/CircularSimSreenShot.png
@@ -40,8 +40,10 @@ The game seeks to bridge gaps between traditional masculine hobbies and feminine
 <br>
 
 We tailor designed Mapping Workshops that invited key stakeholders (on November 2024) to map specific product cycles that are currently the closest to circularity within their market context. Then we asked them to complete 3 layers of analysis: 
+
 1.	identify (scrutinise) remaining limitations (waste leakage, virgin/recycled plastic imports)
 2.	plot potential (practical to aspirational) interventions (technical innovation, regulation, business model, re-designed product…)
 3.	describe potential impact on the scenario and broader ecosystem (financial, service, expertise…)
+
 We have since analysed all the map data and insights, calibrated across all maps, define custom CE intervention configurations, digitsed the maps, formulated digital mapping templates. Currently developing maps into simulation environments, to develop interactive, visual tools that allow stakeholders to experiment with interventions under various conditions. The simulation is designed to allow participants to adjust parameters such as local vs. centralised recycling capacity, the presence or absence of regulatory incentives, or the design of extended producer responsibility schemes, and observe the simulated outcomes on material circulation rates, economic returns, environmental impacts, and stakeholder cooperation.
 
