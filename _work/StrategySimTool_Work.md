@@ -39,9 +39,9 @@ The game seeks to bridge gaps between traditional masculine hobbies and feminine
 *Players interacting with the installation at ACMI.*
 <br>
 
-You can play a web version of My Dream PC at [mydreampc.pink](https://www.mydreampc.pink/)
-
-Originally made in only two months, My Dream PC debuted at the [Feminine Play](https://www.feminineplay.org/) exhibition as a part of Melbourne International Games Week (2024) and was selected for The Australian Centre for the Moving Image (ACMI) centrepiece exhibition, [The Story of the Moving Image](https://www.acmi.net.au/whats-on/story-of-the-moving-image-exhibition/) for a 12 month display starting in July 2025.
-
-So far, Charlotte Galvin has presented inspiring talks about My Dream PC at [Freeplay Angles](https://www.freeplay.net.au) and [Replaying Japan](https://replaying.jp/program-and-schedule/).
+We tailor designed Mapping Workshops that invited key stakeholders (on November 2024) to map specific product cycles that are currently the closest to circularity within their market context. Then we asked them to complete 3 layers of analysis: 
+1.	identify (scrutinise) remaining limitations (waste leakage, virgin/recycled plastic imports)
+2.	plot potential (practical to aspirational) interventions (technical innovation, regulation, business model, re-designed product…)
+3.	describe potential impact on the scenario and broader ecosystem (financial, service, expertise…)
+We have since analysed all the map data and insights, calibrated across all maps, define custom CE intervention configurations, digitsed the maps, formulated digital mapping templates. Currently developing maps into simulation environments, to develop interactive, visual tools that allow stakeholders to experiment with interventions under various conditions. The simulation is designed to allow participants to adjust parameters such as local vs. centralised recycling capacity, the presence or absence of regulatory incentives, or the design of extended producer responsibility schemes, and observe the simulated outcomes on material circulation rates, economic returns, environmental impacts, and stakeholder cooperation.
 
