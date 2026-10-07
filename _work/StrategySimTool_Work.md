@@ -4,7 +4,7 @@ permalink: CircularSim
 description: "A circular plastics strategy simulator"
 
 work-type: "Simulation"
-categories: [social, strategic, mapping]
+categories: [social, environmental]
 year: 2024
 layout: project
 
