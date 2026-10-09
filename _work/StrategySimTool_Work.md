@@ -18,11 +18,23 @@ credits:
 - Deb Polson - lead Researcher
 
 ---
-This dynamic and interactive web tool allows ...
+A new and unique interactive simulation tool for people to experiment with the impacts of proven  interventions strategies on local plastics production cycles.
 
-Scenario modelling, focuses on uncovering the detailed mechanics and system rules governing specific slices of the market. For example, in one scenario, we followed the lifecycle of a single plastic product, from its production through disposal, recycling, and eventual reintegration into the economy (image above). Using a combination of real-world data and modelled assumptions, we are designing interactive interfaces that allow stakeholders to explore key system dynamics, including persistent waste flows, contamination risks, import dependencies, investment bottlenecks, and regulatory leverage points. 
+Players within the plastics recycling ecosystem can:
+1. MAP: simply map a curernt or speculative product cycle 
+2. ASSESS: locate current barriers to transitioning to more circular supply and production
+3. INTERVENE: apply proven strategies from an extensive database of proven interventions (local and global)
+4. PLAN: see a simulated impact report and action plan for implemetation
 
-By zooming in on discrete scenarios, we are able to surface hidden mechanics, challenge the efficacy of attempted circular interventions and test how small changes could ripple across the larger system. 
+Development of the Scenario Tool represents a major trans-disciplinary achievement. The interactive application integrates insights from stakeholder site visits, sector-wide literature reviews, interviews and Business Team analysis of proven circular interventions within a new simulation framework designed and tested with stakeholders. It also showcases Engineering Team innovations that enable previously unusable materials, including cheese wrap, to be recycled at processing plants. Four planned onsite demonstrators will pilot this technology. Through the tool, users can discover these demonstrators and explore how the intervention might be adapted across other organisational processes, translating complex research into actionable pathways with potential to accelerate plastics circularity.
+
+COUNTRY-WIDE, SECTOR-WIDE PARTICIPATION
+
+This project is well resourced with MBIE Endeavour funding of $11.7million for 5 years shared across multiple research disciplines and a diverse dedicated industry group.
+
+This allows an unusal level of participation at a country-wide scale with multiple years to co-develop strategies and prototype solutions.
+
+
 
 <br>
 ![Sub Image](/assets/Images/Work/CircularSim/ScenarioMappingColabProcess.png)
@@ -37,6 +49,13 @@ We tailor designed Mapping Workshops that invited key stakeholders (on November 
 3.	describe potential impact on the scenario and broader ecosystem (financial, service, expertise…)
 
 We have since analysed all the map data and insights, calibrated across all maps, define custom CE intervention configurations, digitsed the maps, formulated digital mapping templates. 
+
+Current Version
+Scenario modelling, focuses on uncovering the detailed mechanics and system rules governing specific slices of the market. For example, in one scenario, we followed the lifecycle of a single plastic product, from its production through disposal, recycling, and eventual reintegration into the economy (image above). Using a combination of real-world data and modelled assumptions, we are designing interactive interfaces that allow stakeholders to explore key system dynamics, including persistent waste flows, contamination risks, import dependencies, investment bottlenecks, and regulatory leverage points. 
+
+By zooming in on discrete scenarios, we are able to surface hidden mechanics, challenge the efficacy of attempted circular interventions and test how small changes could ripple across the larger system. 
+
+Future developments
 
 Currently developing maps into simulation environments, to develop interactive, visual tools that allow stakeholders to experiment with interventions under various conditions. The simulation is designed to allow participants to adjust parameters such as local vs. centralised recycling capacity, the presence or absence of regulatory incentives, or the design of extended producer responsibility schemes, and observe the simulated outcomes on material circulation rates, economic returns, environmental impacts, and stakeholder cooperation.
 
