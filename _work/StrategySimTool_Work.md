@@ -25,7 +25,7 @@ Scenario modelling, focuses on uncovering the detailed mechanics and system rule
 By zooming in on discrete scenarios, we are able to surface hidden mechanics, challenge the efficacy of attempted circular interventions and test how small changes could ripple across the larger system. 
 
 <br>
-![Sub Image](/assets/Images/Work/CircularSim/ScenarioMappingColabProcess.png
+![Sub Image](/assets/Images/Work/CircularSim/ScenarioMappingColabProcess.png)
 *Images of the design team on industrial site visits, leading co-design workshops with stakeholders from across the NZ Plastics ecosystem (including manufacturers, collectors, recylclers, waste mitigation managers, regulators, and consultants), Focus groups with experts from Plastics NZ. Second row is documentation assets that the design team manage to inform tool development such as digitised workshop data, analysed and codified data insights, initial scenario simulation maps.*
 <br>
 
