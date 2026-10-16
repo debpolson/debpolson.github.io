@@ -63,5 +63,5 @@ Currently developing maps into simulation environments, to develop interactive, 
 
 <br>
 ![Sub Image](/assets/Images/Work/CircularSim/IterationsScenarioSim.png)
-*The many iterations of the Circular Sim Tool.*
+*Five early versions - outcomes of the many design iterations.*
 <br>
