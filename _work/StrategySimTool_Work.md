@@ -21,7 +21,7 @@ credits:
 A new and unique interactive simulation tool for people to experiment with the impacts of proven  interventions strategies on local plastics production cycles.
 
 Players within the plastics recycling ecosystem can:
-1. MAP: simply map a curernt or speculative product cycle 
+1. MAP: simply map a current or speculative product cycle 
 2. ASSESS: locate current barriers to transitioning to more circular supply and production
 3. INTERVENE: apply proven strategies from an extensive database of proven interventions (local and global)
 4. PLAN: see a simulated impact report and action plan for implemetation
