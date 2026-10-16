@@ -14,8 +14,9 @@ media:  /assets/Images/Work/CircularSim/CircularSimSreenShot.png
 subheading: A Mapping Simulator for Increased Plastics Recycling
 credits:
 - Pooja Mandavia - Development Lead, System Designer, Programmer
-- Charlotte Galvin - Lead Designer
-- Deb Polson - lead Researcher
+- Deb Polson - Lead Researcher
+- Charlotte Galvin - UI Designer
+
 
 ---
 A new and unique interactive simulation tool for people to experiment with the impacts of proven  interventions strategies on local plastics production cycles.
