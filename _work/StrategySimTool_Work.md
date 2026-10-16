@@ -11,7 +11,7 @@ layout: project
 preview-image: /assets/Images/Work/CircularSim/CircularSimSreenShot.png
 media:  /assets/Images/Work/CircularSim/CircularSimSreenShot.png
 
-subheading: A Mapping Simulator for Increased Plastics Recycling
+subheading: A Mapping and Strategy Simulator to Encourage Plastics Recycling
 credits:
 - Pooja Mandavia - Development Lead, System Designer, Programmer
 - Deb Polson - Lead Researcher
