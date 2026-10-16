@@ -51,6 +51,7 @@ We tailor designed Mapping Workshops that invited key stakeholders (on November 
 We have since analysed all the map data and insights, calibrated across all maps, define custom CE intervention configurations, digitsed the maps, formulated digital mapping templates. 
 
 Current Version
+
 Scenario modelling, focuses on uncovering the detailed mechanics and system rules governing specific slices of the market. For example, in one scenario, we followed the lifecycle of a single plastic product, from its production through disposal, recycling, and eventual reintegration into the economy (image above). Using a combination of real-world data and modelled assumptions, we are designing interactive interfaces that allow stakeholders to explore key system dynamics, including persistent waste flows, contamination risks, import dependencies, investment bottlenecks, and regulatory leverage points. 
 
 By zooming in on discrete scenarios, we are able to surface hidden mechanics, challenge the efficacy of attempted circular interventions and test how small changes could ripple across the larger system. 
@@ -60,6 +61,6 @@ Future developments
 Currently developing maps into simulation environments, to develop interactive, visual tools that allow stakeholders to experiment with interventions under various conditions. The simulation is designed to allow participants to adjust parameters such as local vs. centralised recycling capacity, the presence or absence of regulatory incentives, or the design of extended producer responsibility schemes, and observe the simulated outcomes on material circulation rates, economic returns, environmental impacts, and stakeholder cooperation.
 
 <br>
-![Sub Image](/assets/Images/Work/MyDreamPC/MDPC_ACMI.png)
-*Players interacting with the installation at ACMI.*
+![Sub Image](/assets/Images/Work/CircularSim/IterationsScenarioSim.png)
+*The many iterations of the Circular Sim Tool.*
 <br>
