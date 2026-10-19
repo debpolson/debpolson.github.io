@@ -6,6 +6,7 @@ description: "A pink PC builder"
 work-type: "Simulation"
 categories: [environmental]
 year: 2023
+post-date: 2023-06
 layout: project
 
 preview-image: /assets/Images/Work/MaterialMap/MaterialMap_1.png

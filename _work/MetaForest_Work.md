@@ -6,6 +6,7 @@ description: "Realisitic Forest Simulation"
 work-type: "Installation, VR"
 categories: [environmental, internships]
 year: 2025
+post-date: 2025-02
 layout: project
 
 preview-image: /assets/Images/Work/MetaForest/Meta3.png

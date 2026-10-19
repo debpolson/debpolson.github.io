@@ -6,6 +6,7 @@ description: "Emboddied Museum Interaction"
 work-type: "Installation, Game"
 categories: [social, custom controllers]
 year: 2025
+post-date: 2025-06
 layout: project
 
 preview-image: /assets/Images/Work/DesertGarden/Room 3.png
@@ -16,8 +17,8 @@ credits:
 - Caleb Noller - Lead Designer and Programmer
 - Jazmin Engle - Environment Artist
 - Josh Wait - Fabrication 
-
 ---
+
 This project was designed to bring strangers together in public spaces. It invites players to step into a physical play-space, and welcome other museum-goers in, very likely strangers, to join the fun. Players collaborate together in a novel interactive puzzle game using their own bodies to control the game. 
 
 Prospective players only have to step into the play area to participate. No extra controllers required! Only through teamwork can you make your way through this strange city... and feel the satisfaction of shared achievement.

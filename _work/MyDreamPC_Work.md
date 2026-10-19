@@ -6,6 +6,7 @@ description: "A pink PC builder"
 work-type: "Simulation"
 categories: [social, internships]
 year: 2025
+post-date: 2025-06
 layout: project
 
 preview-image: /assets/Images/Work/MyDreamPC/MDPC_NoUI.png

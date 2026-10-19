@@ -6,6 +6,7 @@ description: "A VR horror experience where players swim through a shifting under
 work-type: "Simulation"
 categories: [social, environmental]
 year: 2025
+post-date: 2025-01
 layout: project
 
 preview-image: /assets/Images/Work/OceansDread/OceansDreadCover.png

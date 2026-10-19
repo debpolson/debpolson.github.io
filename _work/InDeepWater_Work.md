@@ -6,6 +6,7 @@ description: "An installation piece exploring rising water tables through isomet
 work-type: "Installation"
 categories: [environmental, custom controllers]
 year: 2026
+post-date: 2026-06
 layout: project
 
 preview-image: /assets/Images/Work/IDW/InDeepWatersCover.png

@@ -6,6 +6,7 @@ description: " "
 work-type: "Tabletop Game"
 categories: [environmental, social]
 year: 2023
+post-date: 2023-06
 layout: project
 
 preview-image: /assets/Images/Work/Plastics/me1_169.png

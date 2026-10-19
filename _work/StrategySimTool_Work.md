@@ -6,6 +6,7 @@ description: "A circular plastics strategy simulator"
 work-type: "Simulation"
 categories: [social, environmental]
 year: 2026
+post-date: 2026-09
 layout: project
 
 preview-image: /assets/Images/Work/CircularSim/CircularSimSreenShot.png

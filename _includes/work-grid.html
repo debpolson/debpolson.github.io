@@ -7,7 +7,8 @@
 </div>
 
 <div class="work-grid reveal">
-    {% for work in site.work %}
+    {% assign sorted-work = site.work | sort: 'post-date' | reverse %}
+    {% for work in sorted-work %}
     {% assign cats = work.categories | join: ',' | downcase %}
     <div class="work-card" data-categories="{{ cats }}">
         <a class="work-card__link" href="{{ work.url }}">

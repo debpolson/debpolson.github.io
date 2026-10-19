@@ -6,6 +6,7 @@ description: "An installation piece exploring rising water tables through isomet
 work-type: "System Simulation"
 categories: [environmental]
 year: 2025
+post-date: 2025-06
 layout: project
 
 preview-image: /assets/Images/Work/Flow/Flow_early_prototype.png
