@@ -5,7 +5,7 @@ description: "Emboddied Museum Interaction"
 
 work-type: "Installation, Game"
 categories: [social, custom controllers]
-year: 2026
+year: 2025
 layout: project
 
 preview-image: /assets/Images/Work/DesertGarden/Room 3.png
