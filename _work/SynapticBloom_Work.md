@@ -1,7 +1,7 @@
 ---
 title: "Synaptic Bloom"
-permalink: CircularSim
-description: "A circular plastics strategy simulator"
+permalink: SynapticBloom
+description: "An experimental space for shared interactions"
 
 work-type: "Simulation"
 categories: [social, environmental]
@@ -9,8 +9,8 @@ year: 2026
 post-date: 2026-10
 layout: project
 
-preview-image: /assets/Images/Work/Synaptic/StrangersACMI.jpg
-media:  /assets/Images/Work/Synaptic/StrangersACMI.jpg
+preview-image: /assets/Images/Work/Synaptic/strangersACMI.jpg
+media:  /assets/Images/Work/Synaptic/strangersACMI.jpg
 
 subheading: An experiment in collective stillness, unexpected connections and beautiful moments between strangers.
 credits:
