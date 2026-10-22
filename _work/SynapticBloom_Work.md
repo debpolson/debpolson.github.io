@@ -49,8 +49,10 @@ The work creates a playful excuse for people to acknowledge one another, negotia
 
 <br>
 ![Sub Image](/assets/Images/Work/Synaptic/3PlayACMI.jpeg)
-*Five early versions - outcomes of the many design iterations.*
+*Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces—from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
 <br>
+
+These encounters only happen in this space encouraged by the work, demonstrate how interactive installations can transform exhibition spaces into places of joyful social connection. The work also offers museum and gallery curators an exemplar of how collaborations with local creative practitioners can produce ambitious, original experiences that expand the possibilities of public engagement, without relying exclusively on established international artists and studios.
 
 During a recent presentation at ACMI's Audience Lab, one group of visitors spontaneously embraced as their collective stillness triggered a spectacular transition between worlds. One participant exclaimed:
 
@@ -62,9 +64,3 @@ Synaptic Bloom demonstrates how game engines, sensing technologies and interacti
 
 Ultimately, the work asks a simple question: **Can an interactive world encourage us to become more attentive to one another in the real one?**
 
-<br>
-![Sub Image](/assets/Images/Work/Synaptic/3PlayACMI.jpeg)
-*Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces—from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
-<br>
-
-The encounters that only happen in this space encouraged by the work, demonstrate how interactive installations can transform exhibition spaces into places of joyful social connection. The work also offers museum and gallery curators an exemplar of how collaborations with local creative practitioners can produce ambitious, original experiences that expand the possibilities of public engagement, without relying exclusively on established international artists and studios.
