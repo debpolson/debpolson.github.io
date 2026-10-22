@@ -24,11 +24,12 @@ credits:
 
 Combining a real-time game engine, ZED camera-based body tracking, dynamic animation and immersive responsive sound, Synaptic Bloom transforms a gallery, foyer or public space into an interactive environment. Visitors' positions are continuously tracked and translated into abstract, neuron-like forms projected at architectural scale. As people move, pause and gather, delicate tendrils emerge, connections form, and intricate networks begin to grow across the screen.
 
-*Image above: Synaptic Bloom at ACMI Audience Lab, Melbourne, March 2026. Presented as part of ACMI and RMIT’s public showcase of experimental interactive works, this event marked the first public installation and testing of Synaptic Bloom’s initial design iteration. Visitors explored how proximity and collective stillness could generate luminous, neuron-like connections across a large-scale projection, transforming strangers into unexpected collaborators through playful interaction.
 <br>
-![Sub Image](/assets/Images/Work/CircularSim/ScenarioMappingColabProcess.png)
-*Images of the design team on industrial site visits, leading co-design workshops with stakeholders from across the NZ Plastics ecosystem (including manufacturers, collectors, recylclers, waste mitigation managers, regulators, and consultants), Focus groups with experts from Plastics NZ. Second row is documentation assets that the design team manage to inform tool development such as digitised workshop data, analysed and codified data insights, initial scenario simulation maps.*
+![Sub Image](/assets/Images/Work/Synaptic/Bloom4.jpeg)
+*Synaptic Bloom makes the invisible relationships between strangers visible, creating moments of curiosity, anticipation and collective delight.*
 <br>
+
+*Banner image above: Synaptic Bloom at ACMI Audience Lab, Melbourne, March 2026. Presented as part of ACMI and RMIT’s public showcase of experimental interactive works, this event marked the first public installation and testing of Synaptic Bloom’s initial design iteration. Visitors explored how proximity and collective stillness could generate luminous, neuron-like connections across a large-scale projection, transforming strangers into unexpected collaborators through playful interaction.
 
 
 **The unusual challenge is that progress requires people to slow down.**
