@@ -31,23 +31,31 @@ Combining a real-time game engine, ZED camera-based body tracking, dynamic anima
 <br>
 
 
-We tailor designed Mapping Workshops that invited key stakeholders (on November 2024) to map specific product cycles that are currently the closest to circularity within their market context. Then we asked them to complete 3 layers of analysis: 
+The unusual challenge is that progress requires people to slow down.
 
-1.	identify (scrutinise) remaining limitations (waste leakage, virgin/recycled plastic imports)
-2.	plot potential (practical to aspirational) interventions (technical innovation, regulation, business model, re-designed product…)
-3.	describe potential impact on the scenario and broader ecosystem (financial, service, expertise…)
+Unlike conventional games that reward speed, competition or increasingly frantic activity, Synaptic Bloom encourages visitors to cooperate through proximity, patience and shared stillness. When strangers stand close enough together and remain still for a sustained period, their individual forms begin to connect. These connections expand into increasingly complex networks, accompanied by evolving animations, light and sound.
 
-We have since analysed all the map data and insights, calibrated across all maps, define custom CE intervention configurations, digitsed the maps, formulated digital mapping templates. 
+As more participants join and maintain their collective stillness, the network becomes richer and more elaborate. Eventually, when sufficient connections have formed, the entire environment undergoes a dramatic transformation. A crescendo of animation, light and immersive sound signals the emergence of an entirely new visual world, inviting participants to begin forming connections again.
 
-Current Version
+These transitions are deliberately spectacular and deeply satisfying. They reward not individual achievement, but the collective effort of people who have quietly negotiated an unfamiliar form of cooperation.
 
-Scenario modelling, focuses on uncovering the detailed mechanics and system rules governing specific slices of the market. For example, in one scenario, we followed the lifecycle of a single plastic product, from its production through disposal, recycling, and eventual reintegration into the economy (image above). Using a combination of real-world data and modelled assumptions, we are designing interactive interfaces that allow stakeholders to explore key system dynamics, including persistent waste flows, contamination risks, import dependencies, investment bottlenecks, and regulatory leverage points. 
+##Turning Awkward encounters into beautiful moments
 
-By zooming in on discrete scenarios, we are able to surface hidden mechanics, challenge the efficacy of attempted circular interventions and test how small changes could ripple across the larger system. 
+Synaptic Bloom was developed by the Games of Consequence Lab as an experiment in how gaming technologies might encourage unfamiliar people to interact in unexpected, joyful and sometimes surprisingly intimate ways.
 
-Future developments
+Public interactive installations often invite people to move, gesture, compete or perform. Synaptic Bloom explores a different possibility: what happens when an interactive experience asks strangers to be still together?
 
-Currently developing maps into simulation environments, to develop interactive, visual tools that allow stakeholders to experiment with interventions under various conditions. The simulation is designed to allow participants to adjust parameters such as local vs. centralised recycling capacity, the presence or absence of regulatory incentives, or the design of extended producer responsibility schemes, and observe the simulated outcomes on material circulation rates, economic returns, environmental impacts, and stakeholder cooperation.
+The work creates a playful excuse for people to acknowledge one another, negotiate their physical proximity and become thoughtful collaborators. What begins as curiosity about an unfamiliar digital environment can develop into a shared experience of patience, anticipation, discovery and delight.
+
+During a recent presentation at ACMI's Audience Lab, one group of visitors spontaneously embraced as their collective stillness triggered a spectacular transition between worlds. One participant exclaimed:
+
+##“I guess this makes us all family now.”
+
+It was a delightful, unscripted moment that captured the project's central ambition: to use technology not simply to entertain individuals, but to create meaningful opportunities for connection between people who might otherwise never interact.
+
+Synaptic Bloom demonstrates how game engines, sensing technologies and interactive art can be brought together to reconsider the behaviours we encourage in shared spaces. Rather than demanding attention through speed or spectacle alone, the installation makes room for contemplation, cooperation and the pleasure of creating something beautiful together.
+
+Ultimately, the work asks a simple question: **Can an interactive world encourage us to become more attentive to one another in the real one?**
 
 <br>
 ![Sub Image](/assets/Images/Work/CircularSim/IterationsScenarioSim.png)
