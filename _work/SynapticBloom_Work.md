@@ -1,5 +1,5 @@
 ---
-title: "Synaptic Bllom"
+title: "Synaptic Bloom"
 permalink: CircularSim
 description: "A circular plastics strategy simulator"
 
@@ -9,8 +9,8 @@ year: 2026
 post-date: 2026-10
 layout: project
 
-preview-image: /assets/Images/Work/Synaptic/3StrangersACMI.jpg
-media:  /assets/Images/Work/Synaptic/3StrangersACMI.jpg
+preview-image: /assets/Images/Work/Synaptic/StrangersACMI.jpg
+media:  /assets/Images/Work/Synaptic/StrangersACMI.jpg
 
 subheading: An experiment in collective stillness, unexpected connections and beautiful moments between strangers.
 credits:
