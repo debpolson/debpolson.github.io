@@ -39,7 +39,7 @@ As more participants join and maintain their collective stillness, the network b
 
 These transitions are deliberately spectacular and deeply satisfying. They reward not individual achievement, but the collective effort of people who have quietly negotiated an unfamiliar form of cooperation.
 
-##Turning Awkward encounters into beautiful moments
+## Turning Awkward encounters into beautiful moments
 
 Synaptic Bloom was developed by the Games of Consequence Lab as an experiment in how gaming technologies might encourage unfamiliar people to interact in unexpected, joyful and sometimes surprisingly intimate ways.
 
@@ -49,7 +49,7 @@ The work creates a playful excuse for people to acknowledge one another, negotia
 
 During a recent presentation at ACMI's Audience Lab, one group of visitors spontaneously embraced as their collective stillness triggered a spectacular transition between worlds. One participant exclaimed:
 
-##“I guess this makes us all family now.”
+## “I guess this makes us all family now.”
 
 It was a delightful, unscripted moment that captured the project's central ambition: to use technology not simply to entertain individuals, but to create meaningful opportunities for connection between people who might otherwise never interact.
 
