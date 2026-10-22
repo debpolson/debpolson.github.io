@@ -29,7 +29,11 @@ Rather than gliding through the world with a thumbstick, players move by physica
 
 Survival depends on careful strategy. Players must manage a limited oxygen supply while navigating a complex, ever-changing maze, and the tension grows with each unfamiliar turn. Dark tunnels and an unsettling atmosphere turn exploration into a psychological challenge, making the game as mentally demanding as it is physical.
 
-<!-- ![Sub Image](/assets/Images/Work/OceansDread/OceansDread3.jpeg) -->
+<br>
+![Sub Image](/assets/Images/Work/OceansDread/OceansDread3.jpeg)
+*Immersion in open oceans and in tight caves, proves equally thrilling for players.*
+<br>
+
 
 Beyond the thrill of horror, Ocean's Dread explores how games can offer a safe, virtual space for confronting fear and anxiety. It is designed for players who enjoy problem-solving, horror-themed gameplay, and unconventional interaction design, appealing to VR enthusiasts, fans of adventure and survival games, and anyone seeking a psychologically engaging experience.
 
