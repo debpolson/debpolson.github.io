@@ -19,15 +19,14 @@ credits:
     - Deb Polson - Design and Research
     - Paul Anstey - Music and Sound Design
 ---
-## The Environmental Capitalist
 
-Can you profit from plastic—and keep up with the waste it creates? Build a plastic-bottle business in this satirical clicker game, where rising production, recycling costs and boardroom demands complicate your environmental ambitions. Make money, manage the mess, and question what it means to win.
+*Can you profit from plastic and keep up with the waste it creates? Build a plastic-bottle business in this satirical clicker game, where rising production, recycling costs and boardroom demands complicate your environmental ambitions. Make money, manage the mess, and question what it means to win.*
 
 **The Environmental Capitalist** is a satirical clicker-management game that puts you in charge of a plastic-bottle business. Buy plastic pellets, manufacture bottles, automate production and watch your income rise. Invest in recyclers, improve material recovery and weigh the costs of cleaning up. Keep the board satisfied, respond to public concern, and decide whether to change your practices or polish your image. Meanwhile, the waste keeps piling up outside your office window.
 
 Behind the familiar bottle lies a system of **material flows, commercial pressures and environmental consequences**. The game invites players to explore how these forces interact: why producing more can be easier to justify than producing less, why recycling has costs and limits, and why good intentions can struggle against the demand for financial returns. As production accelerates, can your efforts to recover materials keep pace?
 
-Taking inspiration from Cookie Clicker and Universal Paperclips, the game makes the pleasures of accumulation part of its argument. Clicking becomes production; production funds upgrades; upgrades make the numbers climb faster. The temptation to buy just one more machine draws players into the very logic the game asks them to question. When both income and landfill are growing, what counts as progress?
+Taking inspiration from [Cookie Clicker ](https://orteil.dashnet.org/cookieclicker/) and [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html), the game makes the pleasures of accumulation part of its argument. Clicking becomes production; production funds upgrades; upgrades make the numbers climb faster. The temptation to buy just one more machine draws players into the very logic the game asks them to question. When both income and landfill are growing, what counts as progress?
 
 Humour gives players a way into these uncomfortable questions. Bright cartoon graphics, corporate messages and the absurdity of managing an expanding waste problem from a comfortable office make the system inviting to explore. Players can experiment, make compromises, laugh at the contradictions and try again. The comedy becomes increasingly pointed as business success and environmental care pull in different directions.
 
