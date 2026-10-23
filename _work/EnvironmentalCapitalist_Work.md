@@ -40,7 +40,7 @@ Through play, The Environmental Capitalist invites a closer look at the everyday
 *Day One on the job: The opening onboarding sequence of The Environmental Capitalist, introducing players to the core mission of bottle manufacturing*
 <br>
 
-## Why This Message Matters
+**Why This Message Matters**
 
 The modern consumer economy often treats plastic packaging as a magical, disposable commodity that disappears the moment it hits a trash bin. In reality, every single piece of plastic ever created still exists on Earth in some form.
 By forcing the player to manage the full, closed-loop lifecycle of production—juxtaposed directly with an accumulating, unyielding Landfill counter, the game visualizes a hard economic truth: true sustainability is inherently incompatible with the corporate mandate for endless exponential growth. It visually strips away the clean marketing veneer of plastic manufacturing to reveal the messy, systemic machinery underneath.
@@ -48,12 +48,12 @@ By forcing the player to manage the full, closed-loop lifecycle of production—
 ## Australia is the second-highest generator of single-use plastic waste per capita in the world.
 [source](https://wwf.org.au/get-involved/plastic-pollution)
 
-## The Power of Satire and Play
+**The Power of Satire and Play**
 
 Dealing with existential crises like overconsumption and microplastic saturation frequently leads to climate fatigue and emotional detachment. Traditional educational media can feel overly heavy or lecturing.
 The Environmental Capitalist bypasses this defense mechanism by using dark corporate humor and addictive gameplay loops. By dressing systemic ecological devastation up as a cheerful, colorful management dashboard, we invite players to willingly participate in the structural absurdity of "greenwashing" their way past public concern. Laughing at the cynical mechanics of corporate survival allows players to critically examine real-world systems without shutting down.
 
-## Why a Clicker Game?
+**Why a Clicker Game?**
 
 Clicker games are uniquely suited for exploring themes of runaway consumption because the genre is structurally designed around hyper-inflation and obsession with efficiency.
 
