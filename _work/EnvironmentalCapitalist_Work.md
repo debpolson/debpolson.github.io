@@ -24,7 +24,7 @@ credits:
 
 **The Environmental Capitalist** is a satirical clicker-management game that puts you in charge of a plastic-bottle business. Buy plastic pellets, manufacture bottles, automate production and watch your income rise. Invest in recyclers, improve material recovery and weigh the costs of cleaning up. Keep the board satisfied, respond to public concern, and decide whether to change your practices or polish your image. Meanwhile, the waste keeps piling up outside your office window.
 
-## We are losing the race against our own production lines. Australia generates over 2.5 million tonnes of plastic waste annually, but a staggering 84% of it is sent straight to landfills.
+## 'Australia generates 2.5M tonnes of plastic waste annually' with '84% sent to landfill'
 [source](https://www.cleanup.org.au/waste-challenges/)
 
 Behind the familiar bottle lies a system of **material flows, commercial pressures and environmental consequences**. The game invites players to explore how these forces interact: why producing more can be easier to justify than producing less, why recycling has costs and limits, and why good intentions can struggle against the demand for financial returns. As production accelerates, can your efforts to recover materials keep pace?
@@ -44,6 +44,9 @@ Through play, The Environmental Capitalist invites a closer look at the everyday
 
 The modern consumer economy often treats plastic packaging as a magical, disposable commodity that disappears the moment it hits a trash bin. In reality, every single piece of plastic ever created still exists on Earth in some form.
 By forcing the player to manage the full, closed-loop lifecycle of production—juxtaposed directly with an accumulating, unyielding Landfill counter, the game visualizes a hard economic truth: true sustainability is inherently incompatible with the corporate mandate for endless exponential growth. It visually strips away the clean marketing veneer of plastic manufacturing to reveal the messy, systemic machinery underneath.
+
+## Australia is the second-highest generator of single-use plastic waste per capita in the world.
+[source](https://wwf.org.au/get-involved/plastic-pollution)
 
 ## The Power of Satire and Play
 
