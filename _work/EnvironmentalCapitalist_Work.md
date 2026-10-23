@@ -19,8 +19,11 @@ credits:
     - Deb Polson - Design and Research
     - Paul Anstey - Music and Sound Design
 ---
+## The Environmental Capitalist
 
-**The Environmental Capitalist** is a satirical clicker-management game that puts you in charge of a plastic-bottle business. Buy plastic pellets, manufacture bottles, automate production and watch your income rise. Invest in recyclers, improve material recovery and weigh the costs of cleaning up. Keep the board satisfied, respond to public concern, and decide whether to change your practices—or polish your image. Meanwhile, the waste keeps piling up outside your office window.
+Can you profit from plastic—and keep up with the waste it creates? Build a plastic-bottle business in this satirical clicker game, where rising production, recycling costs and boardroom demands complicate your environmental ambitions. Make money, manage the mess, and question what it means to win.
+
+**The Environmental Capitalist** is a satirical clicker-management game that puts you in charge of a plastic-bottle business. Buy plastic pellets, manufacture bottles, automate production and watch your income rise. Invest in recyclers, improve material recovery and weigh the costs of cleaning up. Keep the board satisfied, respond to public concern, and decide whether to change your practices or polish your image. Meanwhile, the waste keeps piling up outside your office window.
 
 Behind the familiar bottle lies a system of **material flows, commercial pressures and environmental consequences**. The game invites players to explore how these forces interact: why producing more can be easier to justify than producing less, why recycling has costs and limits, and why good intentions can struggle against the demand for financial returns. As production accelerates, can your efforts to recover materials keep pace?
 
@@ -28,19 +31,19 @@ Taking inspiration from Cookie Clicker and Universal Paperclips, the game makes 
 
 Humour gives players a way into these uncomfortable questions. Bright cartoon graphics, corporate messages and the absurdity of managing an expanding waste problem from a comfortable office make the system inviting to explore. Players can experiment, make compromises, laugh at the contradictions and try again. The comedy becomes increasingly pointed as business success and environmental care pull in different directions.
 
-Through play, The Environmental Capitalist invites a closer look at the everyday products we consume and the systems that keep them multiplying. Its ambition is to turn curiosity into more considered consumption—and questions about what needs to change in the rules of production, profit and responsibility.
+Through play, The Environmental Capitalist invites a closer look at the everyday products we consume and the systems that keep them multiplying. Its ambition is to turn curiosity into more considered consumption, and questions about what needs to change in the rules of production, profit and responsibility.
 
 <br>
 ![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_Fired.png)
-*Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces—from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
+*Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces, from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
 <br>
 
 ## Why This Message Matters
 
 The modern consumer economy often treats plastic packaging as a magical, disposable commodity that disappears the moment it hits a trash bin. In reality, every single piece of plastic ever created still exists on Earth in some form.
-By forcing the player to manage the full, closed-loop lifecycle of production—juxtaposed directly with an accumulating, unyielding Landfill counter—the game visualizes a hard economic truth: true sustainability is inherently incompatible with the corporate mandate for endless exponential growth. It visually strips away the clean marketing veneer of plastic manufacturing to reveal the messy, systemic machinery underneath.
+By forcing the player to manage the full, closed-loop lifecycle of production—juxtaposed directly with an accumulating, unyielding Landfill counter, the game visualizes a hard economic truth: true sustainability is inherently incompatible with the corporate mandate for endless exponential growth. It visually strips away the clean marketing veneer of plastic manufacturing to reveal the messy, systemic machinery underneath.
 
-## The Power of Satire and Play
+## The Power of Satire and Play
 
 Dealing with existential crises like overconsumption and microplastic saturation frequently leads to climate fatigue and emotional detachment. Traditional educational media can feel overly heavy or lecturing.
 The Environmental Capitalist bypasses this defense mechanism by using dark corporate humor and addictive gameplay loops. By dressing systemic ecological devastation up as a cheerful, colorful management dashboard, we invite players to willingly participate in the structural absurdity of "greenwashing" their way past public concern. Laughing at the cynical mechanics of corporate survival allows players to critically examine real-world systems without shutting down.
