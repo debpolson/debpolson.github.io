@@ -24,7 +24,7 @@ credits:
 Combining a real-time game engine, ZED camera-based body tracking, dynamic animation and immersive responsive sound, Synaptic Bloom transforms a gallery, foyer or public space into an interactive environment. Visitors' positions are continuously tracked and translated into abstract, neuron-like forms projected at architectural scale. As people move, pause and gather, delicate tendrils emerge, connections form, and intricate networks begin to grow across the screen.
 
 <br>
-![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/Plastics_Mini_1.png)
+![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_1.png)
 *Synaptic Bloom makes the invisible relationships between strangers visible, creating moments of curiosity, anticipation and collective delight.*
 <br>
 
@@ -48,7 +48,7 @@ Public interactive installations often invite people to move, gesture, compete o
 The work creates a playful excuse for people to acknowledge one another, negotiate their physical proximity and become thoughtful collaborators. What begins as curiosity about an unfamiliar digital environment can develop into a shared experience of patience, anticipation, discovery and delight.
 
 <br>
-![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/Plastics_Mini_Fired.png)
+![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_Fired.png)
 *Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces—from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
 <br>
 
