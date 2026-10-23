@@ -64,7 +64,8 @@ Just as in Universal Paperclips, where a harmless manufacturing mandate accident
 *The realities of infinite growth: This player is getting replaced by the board for prioritizing environmental purity over quarterly profits, while the waste outside continues to mount.*
 <br>
 
-Thanks 
+**Thanks to:**
+
 To our early testers: [Joya Kemper](https://profiles.canterbury.ac.nz/Joya-Kemper) (social scientist working in circular economy research at Canterbury University, New Zealand) and [Zac Fitz-Walter](https://experts.griffith.edu.au/35044-zac-fitzwalter) (gamification expert, game design academic at Griffith University, QLD, Australia, and founder of [Eat More Pixels](https://www.eatmorepixels.com.au/)) 
 
 DM [Deb on LinkedIn](https://www.linkedin.com/in/debpolson/) if you are interested in playtesting with us or collaborating on this or other projects.
