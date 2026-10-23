@@ -13,6 +13,7 @@ preview-image: /assets/Images/Work/MetaForest/Meta3.png
 media:  /assets/Images/Work/MetaForest/Meta4.png
 
 subheading: Experience a stunning virutal forest in a variety of interaction modes.
+
 credits:
     - Deb Polson - Research and Design
     - Iris Anstey - Technical Art, Modelling, (all versions)
