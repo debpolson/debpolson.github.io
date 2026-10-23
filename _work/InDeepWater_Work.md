@@ -1,7 +1,7 @@
 ---
 title: "In Deep Water"
 permalink: InDeepWater
-description: "An installation piece exploring rising water tables through isometric miniature landscapes."
+description: "Marine simulation with custom controllers"
 
 work-type: "Installation"
 categories: [environmental, custom controllers]
@@ -12,7 +12,7 @@ layout: project
 preview-image: /assets/Images/Work/IDW/InDeepWatersCover.png
 media:  /assets/Images/Work/IDW/InDeepWatersCover.png
 
-subheading: There may be more plastic than fish in the ocean, by weight, by 2050.
+subheading: Exploring the impacts of plastic pollution on marine ecosystems through isometric miniature landscapes and novel controllers 
 
 credits:
     - Iris Anstey - Lead Design, Technical Art
@@ -22,6 +22,8 @@ credits:
     - Ana Davila Veytia - Device Fabrication
     - Josh Wait - Arduino Production
 ---
+## There may be more plastic than fish in the ocean, by weight, by 2050.
+
 In Deep Water is a simulation/game that invites players to explore the hidden impacts of plastic pollution in marine ecosystems. Set within a digitally sculpted marine biorama inspired by the waterways of Aotearoa, New Zealand, the experience spans estuaries, coastlines, and deep ocean environments where ecological change unfolds slowly over time.
 
 The project responds to a critical challenge: much of what scientists understand about marine plastic and microplastic pollution remains difficult for the public to access. Its causes are distributed across complex systems of production and consumption, and its impacts are often invisible, gradual, and dispersed. In Deep Water translates this research into an embodied, collaborative experience, allowing players to investigate, interpret, and make sense of environmental change through interaction rather than instruction.
@@ -40,6 +42,8 @@ As players move through the world, they locate and decode hidden research beacon
 In Deep Water is part of a broader research program investigating how plastic systems might transition toward greater circularity. Within this context, the project demonstrates how games and interactive installations can function as powerful tools for translating complex research into accessible, meaningful public experiences.
 
 <hr>
+
+DM [Deb on LinkedIn](https://www.linkedin.com/in/debpolson/) if you are interested in playtesting with us or collaborating on this or other projects.
 
 **Thanks to:**<br>
 Dr Olga Pantos leading the Microplastics group at [PHF Science](https://www.phfscience.nz/expertise/water-environment/microplastics/), and Dr Samantha Ladewig and her team at the [Leigh Marine Research Lab](https://www.auckland.ac.nz/en/science/about-the-faculty/university-reserves/leigh-marine-laboratory.html).
