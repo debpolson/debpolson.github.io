@@ -34,7 +34,7 @@ Humour gives players a way into these uncomfortable questions. Bright cartoon gr
 Through play, The Environmental Capitalist invites a closer look at the everyday products we consume and the systems that keep them multiplying. Its ambition is to turn curiosity into more considered consumption, and questions about what needs to change in the rules of production, profit and responsibility.
 
 <br>
-![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_Fired.png)
+![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_1.png)
 *Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces, from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
 <br>
 
@@ -54,3 +54,7 @@ Clicker games are uniquely suited for exploring themes of runaway consumption be
 
 Just as in Universal Paperclips, where a harmless manufacturing mandate accidentally destroys the universe, the clicker format mirrors the exact psychological traps of modern capitalism. It rewards the player for automation, scaling, and optimizing profits, making them complicit in the environmental decay happening on screen. The mechanic itself is the message: a loop that cannot stop growing, even when it threatens to consume the player entirely.
 
+<br>
+![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_Fired.png)
+*Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces, from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
+<br>
