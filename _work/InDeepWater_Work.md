@@ -16,10 +16,10 @@ subheading: There may be more plastic than fish in the ocean, by weight, by 2050
 
 credits:
     - Iris Anstey - Lead Design, Technical Art
-    - Deb Polson - Research Lead, Writer
+    - Deb Polson - Research, Writing
     - Paul Anstey - Sound Design
     - Charlotte Galvin - UI Design
-    - Ana Davila Veytia - Device Fabricator
+    - Ana Davila Veytia - Device Fabrication
     - Josh Wait - Arduino Production
 ---
 In Deep Water is a simulation/game that invites players to explore the hidden impacts of plastic pollution in marine ecosystems. Set within a digitally sculpted marine biorama inspired by the waterways of Aotearoa, New Zealand, the experience spans estuaries, coastlines, and deep ocean environments where ecological change unfolds slowly over time.

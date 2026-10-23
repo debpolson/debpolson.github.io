@@ -14,7 +14,7 @@ media:  /assets/Images/Work/MetaForest/Meta4.png
 
 subheading: Experience a stunning virutal forest in a variety of interaction modes.
 credits:
-- Deb Polson - Lead Researcher and Design
+- Deb Polson - Research and Design
 - Iris Anstey - Technical Art, Modelling, (all versions)
 - Iris Anstey - Programming (VR version)
 - Caleb Noller - Programming (installation version)

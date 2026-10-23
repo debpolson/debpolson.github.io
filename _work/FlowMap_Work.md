@@ -14,7 +14,7 @@ media:  /assets/Images/Work/Flow/flowmap1.png
 
 subheading: Dynamic network map
 credits:
-- Deb Polson - Lead Researcher and Design
+- Deb Polson - Research and Design
 - Caleb Noller - System Design, Programming
 - Charlotte Galvin - Interface Design
 ---
