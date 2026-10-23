@@ -13,6 +13,10 @@ preview-image: /assets/Images/Work/Flow/Flow_early_prototype.png
 media:  /assets/Images/Work/Flow/flowmap1.png
 
 subheading: Dynamic network map
+credits:
+- Deb Polson - Lead Researcher and Design
+- Caleb Noller - System Design, Programming
+- Charlotte Galvin - Interface Design
 ---
 This is a dynamic network map displaying the scale and complexity of the NZ Plastics ecosystem. All of the ‘players’ in this system are clustered by sector and are connected by four main flow types: material, data, service, and finance.
 

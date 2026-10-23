@@ -14,8 +14,9 @@ media:  /assets/Images/Work/DesertGarden/Room 3.png
 
 subheading:  A novel experiment in cooperative play for museum spaces
 credits:
-- Caleb Noller - Lead Designer and Programmer
-- Jazmin Engle - Environment Artist
+- Deb Polson - Design, Brief Writing
+- Caleb Noller - Design and Programming
+- Jazmin Engle - Environment and Technical Art
 - Josh Wait - Fabrication 
 ---
 

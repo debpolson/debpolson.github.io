@@ -18,7 +18,7 @@ credits:
 - Iris Anstey - Technical Art
 
 ---
-Ocean's Dread is a virtual reality horror experience set within an expansive underwater maze of stone-like tunnels. As players swim deeper, the environment shifts around them in size and texture: narrow passages press in and heighten the sense of confinement, while sudden openings offer brief moments of freedom. These changes shape the player's emotional journey, building waves of anxiety and relief as they push further into the dark.
+**Ocean's Dread** is a virtual reality horror experience set within an expansive underwater maze of stone-like tunnels. As players swim deeper, the environment shifts around them in size and texture: narrow passages press in and heighten the sense of confinement, while sudden openings offer brief moments of freedom. These changes shape the player's emotional journey, building waves of anxiety and relief as they push further into the dark.
 
 The tunnels are built from contrasting materials, from rough, jagged stone to smooth, worn surfaces, each altering the sensory feel of the space and drawing players onward to uncover what lies ahead. Subtle, dynamic shifts in lighting, sound, and environment pull players ever deeper into this eerie underwater world.
 <br>

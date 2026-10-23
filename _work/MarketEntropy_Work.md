@@ -13,6 +13,9 @@ preview-image: /assets/Images/Work/Plastics/me1_169.png
 media:  /assets/Images/Work/Plastics/me1_169.png
 
 subheading: Board-game prototype
+credits:
+- Caleb Noller - Prototyping
+
 ---
 Market Entropy is a board game prototype originally created in the context of the ReShaping the Plastics NZ Ecosystem project. This multiplayer game is applicable to any stakeholders striving to transform their business attitudes to focus on market-shaping within entropy.
 
