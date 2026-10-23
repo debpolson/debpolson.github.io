@@ -24,6 +24,9 @@ credits:
 
 **The Environmental Capitalist** is a satirical clicker-management game that puts you in charge of a plastic-bottle business. Buy plastic pellets, manufacture bottles, automate production and watch your income rise. Invest in recyclers, improve material recovery and weigh the costs of cleaning up. Keep the board satisfied, respond to public concern, and decide whether to change your practices or polish your image. Meanwhile, the waste keeps piling up outside your office window.
 
+## We are losing the race against our own production lines. Australia generates over 2.5 million tonnes of plastic waste annually, but a staggering 84% of it is sent straight to landfills.
+[source](https://www.cleanup.org.au/waste-challenges/)
+
 Behind the familiar bottle lies a system of **material flows, commercial pressures and environmental consequences**. The game invites players to explore how these forces interact: why producing more can be easier to justify than producing less, why recycling has costs and limits, and why good intentions can struggle against the demand for financial returns. As production accelerates, can your efforts to recover materials keep pace?
 
 Taking inspiration from [Cookie Clicker ](https://orteil.dashnet.org/cookieclicker/) and [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html), the game makes the pleasures of accumulation part of its argument. Clicking becomes production; production funds upgrades; upgrades make the numbers climb faster. The temptation to buy just one more machine draws players into the very logic the game asks them to question. When both income and landfill are growing, what counts as progress?
