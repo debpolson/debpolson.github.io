@@ -1,7 +1,7 @@
 ---
 title: "Plastic Waste Simulator"
 permalink: WasteSimulator
-description: "A pink PC builder"
+description: "A plastics material flow simulator"
 
 work-type: "Simulation"
 categories: [environmental]
@@ -12,9 +12,14 @@ layout: project
 preview-image: /assets/Images/Work/MaterialMap/MaterialMap_1.png
 media:  /assets/Images/Work/MaterialMap/MaterialMap_1.png
 
-subheading: A Playable Factory Simulator for Plastics Circularity
----
-This material mapping tool is an interactive factory simulator that enabling stakeholders to visualise and map their role within Aotearoa New Zealand’s plastic supply chains. Designed for recyclers, manufacturers, and other sector players, this tool allows users to input real product and production data—contributing to the development of the first country-level simulation of New Zealand’s plastic product and waste ecosystem.
+subheading: An Interactive Simulator of Material Flows at a Country-wide scale
+credits:
+- Deb Polson - Research and Design
+- Caleb Noller - System Design, Programming
+- Charlotte Galvin - Interface Design
+
+
+This material mapping tool is an interactive factory simulator that enabling stakeholders to visualise and map their role within **Aotearoa New Zealand’s** plastic supply chains. Designed for recyclers, manufacturers, and other sector players, this tool allows users to input real product and production data—contributing to the development of the first country-level simulation of New Zealand’s plastic product and waste ecosystem.
 
 Resembling the interface of a real-time strategy (RTS) game, this mechanical, constellated map transforms industrial processes into dynamic, moving parts—spinning cogs, shifting materials, and responsive colour-coded flows. Material movements are controlled through intuitive point-and-click actions and grounded in a visual syntax of shapes, symbols, and colours.
 

@@ -14,8 +14,8 @@ media:  /assets/Images/Work/Synaptic/strangersACMI.jpg
 
 subheading: An experiment in collective stillness, unexpected connections and beautiful moments between strangers.
 credits:
-- Iris Anstey - Designer, Technical Artist, Programmer
-- Deb Polson - Designer and Researcher
+- Iris Anstey - Design, Technical Art, Programming
+- Deb Polson - Design and Research
 - Paul Anstey - Music and Sound Design
 
 
