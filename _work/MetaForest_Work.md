@@ -14,11 +14,11 @@ media:  /assets/Images/Work/MetaForest/Meta4.png
 
 subheading: Experience a stunning virutal forest in a variety of interaction modes.
 credits:
-- Deb Polson - Research and Design
-- Iris Anstey - Technical Art, Modelling, (all versions)
-- Iris Anstey - Programming (VR version)
-- Caleb Noller - Programming (installation version)
-- 
+    - Deb Polson - Research and Design
+    - Iris Anstey - Technical Art, Modelling, (all versions)
+    - Iris Anstey - Programming (VR version)
+    - Caleb Noller - Programming (installation version)
+
 ---
 **MetaForest** documents and returns the magic of nature to the mundanity of everyday spaces, bridging the gap between urbanisation and organic spectacle through a mixed reality installation.
 
