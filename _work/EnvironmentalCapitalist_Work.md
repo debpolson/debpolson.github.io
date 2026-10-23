@@ -14,12 +14,10 @@ media:  /assets/Images/Work/EnvironmentalCapitalist/Plastics_Mini_MidGame.png
 
 subheading: An experiment in collective stillness, unexpected connections and beautiful moments between strangers.
 credits:
-- Iris Anstey - Design, Technical Art, Programming
-- Charlotte Galvin - 2D Art and Interface Design
-- Deb Polson - Design and Research
-- Paul Anstey - Music and Sound Design
-
-
+    - Iris Anstey - Design, Technical Art, Programming
+    - Charlotte Galvin - 2D Art and Interface Design
+    - Deb Polson - Design and Research
+    - Paul Anstey - Music and Sound Design
 ---
 **Synaptic Bloom** is a large-scale interactive audiovisual installation that transforms the movements, proximity and stillness of strangers into a living network of luminous, organic forms. Inspired by microscopic recordings of neural activity and cellular connections in the brain, the work invites visitors to discover how their individual presence and collective behaviour can generate extraordinary visual and sonic experiences.
 
