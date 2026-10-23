@@ -1,7 +1,7 @@
 ---
 title: "The Environmental Capitalist"
 permalink: EnvironmentalCapitalist
-description: "A fast Paced Game for Every Environmental Capitalist"
+description: "An ordinary plastic bottle. An extraordinary appetite for growth."
 
 work-type: "Simulation, Game"
 categories: [social, environmental]
@@ -12,55 +12,42 @@ layout: project
 preview-image: /assets/Images/Work/EnvironmentalCapitalist/Plastics_Mini_MidGame.png
 media:  /assets/Images/Work/EnvironmentalCapitalist/Plastics_Mini_MidGame.png
 
-subheading: An experiment in collective stillness, unexpected connections and beautiful moments between strangers.
+subheading: Make a fortune. Make a mess. Can you afford to care?
 credits:
     - Iris Anstey - Design, Technical Art, Programming
     - Charlotte Galvin - 2D Art and Interface Design
     - Deb Polson - Design and Research
     - Paul Anstey - Music and Sound Design
 ---
-**Synaptic Bloom** is a large-scale interactive audiovisual installation that transforms the movements, proximity and stillness of strangers into a living network of luminous, organic forms. Inspired by microscopic recordings of neural activity and cellular connections in the brain, the work invites visitors to discover how their individual presence and collective behaviour can generate extraordinary visual and sonic experiences.
 
-Combining a real-time game engine, ZED camera-based body tracking, dynamic animation and immersive responsive sound, Synaptic Bloom transforms a gallery, foyer or public space into an interactive environment. Visitors' positions are continuously tracked and translated into abstract, neuron-like forms projected at architectural scale. As people move, pause and gather, delicate tendrils emerge, connections form, and intricate networks begin to grow across the screen.
+**The Environmental Capitalist** is a satirical clicker-management game that puts you in charge of a plastic-bottle business. Buy plastic pellets, manufacture bottles, automate production and watch your income rise. Invest in recyclers, improve material recovery and weigh the costs of cleaning up. Keep the board satisfied, respond to public concern, and decide whether to change your practices—or polish your image. Meanwhile, the waste keeps piling up outside your office window.
 
-<br>
-![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_1.png)
-*Synaptic Bloom makes the invisible relationships between strangers visible, creating moments of curiosity, anticipation and collective delight.*
-<br>
+Behind the familiar bottle lies a system of **material flows, commercial pressures and environmental consequences**. The game invites players to explore how these forces interact: why producing more can be easier to justify than producing less, why recycling has costs and limits, and why good intentions can struggle against the demand for financial returns. As production accelerates, can your efforts to recover materials keep pace?
 
-*Banner image above: Synaptic Bloom at ACMI Audience Lab, Melbourne, March 2026. Presented as part of ACMI and RMIT’s public showcase of experimental interactive works, this event marked the first public installation and testing of Synaptic Bloom’s initial design iteration. Visitors explored how proximity and collective stillness could generate luminous, neuron-like connections across a large-scale projection, transforming strangers into unexpected collaborators through playful interaction.
+Taking inspiration from Cookie Clicker and Universal Paperclips, the game makes the pleasures of accumulation part of its argument. Clicking becomes production; production funds upgrades; upgrades make the numbers climb faster. The temptation to buy just one more machine draws players into the very logic the game asks them to question. When both income and landfill are growing, what counts as progress?
 
+Humour gives players a way into these uncomfortable questions. Bright cartoon graphics, corporate messages and the absurdity of managing an expanding waste problem from a comfortable office make the system inviting to explore. Players can experiment, make compromises, laugh at the contradictions and try again. The comedy becomes increasingly pointed as business success and environmental care pull in different directions.
 
-**The unusual challenge is that progress requires people to slow down.**
-
-Unlike conventional games that reward speed, competition or increasingly frantic activity, Synaptic Bloom encourages visitors to cooperate through proximity, patience and shared stillness. When strangers stand close enough together and remain still for a sustained period, their individual forms begin to connect. These connections expand into increasingly complex networks, accompanied by evolving animations, light and sound.
-
-As more participants join and maintain their collective stillness, the network becomes richer and more elaborate. Eventually, when sufficient connections have formed, the entire environment undergoes a dramatic transformation. A crescendo of animation, light and immersive sound signals the emergence of an entirely new visual world, inviting participants to begin forming connections again.
-
-These transitions are deliberately spectacular and deeply satisfying. They reward not individual achievement, but the collective effort of people who have quietly negotiated an unfamiliar form of cooperation.
-
-## Turning Awkward encounters into beautiful moments
-
-Synaptic Bloom was developed by the Games of Consequence Lab as an experiment in how gaming technologies might encourage unfamiliar people to interact in unexpected, joyful and sometimes surprisingly intimate ways.
-
-Public interactive installations often invite people to move, gesture, compete or perform. Synaptic Bloom explores a different possibility: what happens when an interactive experience asks strangers to be still together?
-
-The work creates a playful excuse for people to acknowledge one another, negotiate their physical proximity and become thoughtful collaborators. What begins as curiosity about an unfamiliar digital environment can develop into a shared experience of patience, anticipation, discovery and delight.
+Through play, The Environmental Capitalist invites a closer look at the everyday products we consume and the systems that keep them multiplying. Its ambition is to turn curiosity into more considered consumption—and questions about what needs to change in the rules of production, profit and responsibility.
 
 <br>
 ![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_Fired.png)
 *Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces—from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
 <br>
 
-These encounters only happen in this space encouraged by the work, demonstrate how interactive installations can transform exhibition spaces into places of joyful social connection. The work also offers museum and gallery curators an exemplar of how collaborations with local creative practitioners can produce ambitious, original experiences that expand the possibilities of public engagement, without relying exclusively on established international artists and studios.
+## Why This Message Matters
 
-During a recent presentation at ACMI's Audience Lab, one group of visitors spontaneously embraced as their collective stillness triggered a spectacular transition between worlds. One participant exclaimed:
+The modern consumer economy often treats plastic packaging as a magical, disposable commodity that disappears the moment it hits a trash bin. In reality, every single piece of plastic ever created still exists on Earth in some form.
+By forcing the player to manage the full, closed-loop lifecycle of production—juxtaposed directly with an accumulating, unyielding Landfill counter—the game visualizes a hard economic truth: true sustainability is inherently incompatible with the corporate mandate for endless exponential growth. It visually strips away the clean marketing veneer of plastic manufacturing to reveal the messy, systemic machinery underneath.
 
-## “I guess this makes us all family now.”
+## The Power of Satire and Play
 
-It was a delightful, unscripted moment that captured the project's central ambition: to use technology not simply to entertain individuals, but to create meaningful opportunities for connection between people who might otherwise never interact.
+Dealing with existential crises like overconsumption and microplastic saturation frequently leads to climate fatigue and emotional detachment. Traditional educational media can feel overly heavy or lecturing.
+The Environmental Capitalist bypasses this defense mechanism by using dark corporate humor and addictive gameplay loops. By dressing systemic ecological devastation up as a cheerful, colorful management dashboard, we invite players to willingly participate in the structural absurdity of "greenwashing" their way past public concern. Laughing at the cynical mechanics of corporate survival allows players to critically examine real-world systems without shutting down.
 
-Synaptic Bloom demonstrates how game engines, sensing technologies and interactive art can be brought together to reconsider the behaviours we encourage in shared spaces. Rather than demanding attention through speed or spectacle alone, the installation makes room for contemplation, cooperation and the pleasure of creating something beautiful together.
+## Why a Clicker Game?
 
-Ultimately, the work asks a simple question: **Can an interactive world encourage us to become more attentive to one another in the real one?**
+Clicker games are uniquely suited for exploring themes of runaway consumption because the genre is structurally designed around hyper-inflation and obsession with efficiency.
+
+Just as in Universal Paperclips, where a harmless manufacturing mandate accidentally destroys the universe, the clicker format mirrors the exact psychological traps of modern capitalism. It rewards the player for automation, scaling, and optimizing profits, making them complicit in the environmental decay happening on screen. The mechanic itself is the message: a loop that cannot stop growing, even when it threatens to consume the player entirely.
 
