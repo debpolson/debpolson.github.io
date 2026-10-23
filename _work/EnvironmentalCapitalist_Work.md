@@ -35,7 +35,7 @@ Through play, The Environmental Capitalist invites a closer look at the everyday
 
 <br>
 ![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_1.png)
-*Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces, from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
+*Day One on the job: The opening onboarding sequence of The Environmental Capitalist, introducing players to the core mission of bottle manufacturing*
 <br>
 
 ## Why This Message Matters
@@ -56,5 +56,5 @@ Just as in Universal Paperclips, where a harmless manufacturing mandate accident
 
 <br>
 ![Sub Image](/assets/Images/Work/EnvironmentalCapitalist/PlasticsMini_Fired.png)
-*Three ways to play, connect and cooperate. Synaptic Bloom encourages unexpected interactions between strangers in gallery spaces, from curious observation and playful experimentation to collective stillness and moments of physical closeness.*
+*The realities of infinite growth: This player is getting replaced by the board for prioritizing environmental purity over quarterly profits, while the waste outside continues to mount.*
 <br>
